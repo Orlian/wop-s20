@@ -1,0 +1,14 @@
+{
+  "name": "harjoitus1",
+  "version": "1.0.0",
+  "description": "harjoitellaan",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon script.js"
+  },
+  "author": "joonas",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
